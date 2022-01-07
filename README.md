@@ -1,3 +1,3 @@
 # formulario
 Formulário simples de casdastro usando html e css
-<src="https://raw.githubusercontent.com/evaldovisk/formulario/main/CadastroDev.png" width="350"/>
+<src="https://github.com/evaldovisk/formulario/blob/master/CadastroDev.PNG" width="350"/>
